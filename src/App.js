@@ -5,7 +5,7 @@ import Footer from "./components/Footer";
 function App() {
   return (
     <div className="App">
-      <Header title="taskTracker"/>
+      <Header title="TaskTracker"/>
       <h1>Hello from React</h1>
       <Footer />
     </div>
